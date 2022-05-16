@@ -1,7 +1,25 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+  <head>
+    <!-- CSS UI KIT -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.20/css/uikit.min.css" />
+
+  <!-- UI KIT JS -->
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.20/js/uikit.min.js%22%3E"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.20/js/uikit-icons.min.js%22%3E"></script>
+  </head>
+
+  <body>
+    <!-- This is a button toggling the modal -->
+    <button uk-toggle="target: #my-id" type="button"></button>
+    
+    <!-- This is the modal -->
+    <div id="my-id" uk-modal>
+        <div class="uk-modal-dialog uk-modal-body">
+            <h2 class="uk-modal-title"></h2>
+            <button class="uk-modal-close" type="button"></button>
+        </div>
+    </div>
+    </body>
+
 </html>
