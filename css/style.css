@@ -1,0 +1,316 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+   
+}
+
+.Top {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color:#262322;
+    padding-top: 1000px;
+    padding-bottom: 13px;
+}
+
+.Mid {
+    margin: 0;
+    padding: 0;
+    border: 0;
+   
+}
+
+#Uppermid {
+
+}
+
+#HelloTag{
+    font-size: 100px;
+    margin-left: 650px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+}
+
+#Paragraphtag {
+    padding-top: 100px;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+    padding-bottom: 100px;
+    text-align: center;
+    border: 4px solid #008CBA;
+    border-radius: 5% 10%;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#HeaderSkill {
+    font-size: 60px;
+    margin-left: 645px;
+}
+
+#LanguagesContentBlock {
+    
+    padding-bottom: 50px;
+
+}
+
+#LanguagesTitle {
+    font-size: 40px;
+    margin-left: 650px;
+}
+
+#ProgrammingPhoto {
+    width: 250px;
+}
+
+#LeftyOne {
+    float: left;
+    margin-left: 250px;
+    
+
+}
+
+#RightyOne {
+    float: right;
+    margin-right: 450px;
+    font-size: 25px;
+
+}
+
+.LeadershipExperience {
+    clear: both;
+
+}
+
+#Leadershiptitle {
+    margin-left: 530px;
+    font-size: 40px;
+}
+
+#Captainpicture {
+    width: 200px;
+}
+
+#Leftytwo {
+    float: left;
+    margin-left: 250px;
+}
+
+#Rightytwo {
+    float: right;
+    margin-right: 450px;
+    font-size: 25px;
+}
+
+.Skills {
+    clear: both;
+}
+
+#SkillsTitle{
+    font-size: 40px;
+    margin-left: 720px;
+}
+
+#PictureOfAGear {
+    width: 200px;
+}
+
+#Leftythree {
+    float: left;
+    margin-left: 250px;
+}
+
+#Rightythree {
+    float: right;
+    font-size: 25px;
+    margin-right: 450px;
+}
+
+.AboveBottom {
+    clear: both;
+}
+
+.Bottom {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #262322;
+    margin-bottom: -16px;
+    color: white;
+    text-align: center;
+    
+}
+
+
+#Name {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    margin-left: 610px;
+    margin-right: auto;
+    width: 13em;
+    font-size: 35px;
+    margin-top: -900px;
+    
+    
+}
+
+#HeaderPhoto1 {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 44%;
+    
+}
+
+#Motto {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    margin-left: 420px;
+    font-size: 40px;
+    
+
+}
+
+#backgroundpicture {
+    position: absolute;
+    left: 0px;
+    border: 1px solid white;
+    border-radius: 5px;
+    
+}
+
+#backgroundcomputers {
+    margin-left: 1300px;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+}
+
+
+#Anchor-one {
+    color: black;
+}
+
+#Anchor-2 {
+    color: black;
+    margin-left: 700px;
+
+}
+
+hr {
+  border: 1px solid red;
+  border-radius: 5px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+
+.ContactPage {
+    background-color:#262322;
+    color: white;
+}
+
+
+#ContactName {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+    text-align: center;
+    font-size: 40px;
+    margin: 0px;
+    padding-top: 25px;
+}
+
+#Address {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#PhoneNumber {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.Form {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: -2500px;
+   
+}
+
+#Square {
+    padding-top: 50px;
+    margin-left: 615px;
+    height: 400px;
+    width: 300px;
+    background-color: rgb(32, 189, 181);
+}
+
+#Name1 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+}
+
+#Email1 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+}
+
+#Message1 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Solitreo', cursive;
+}
+
+#Nameform {
+    
+}
+
+#Emailform {
+
+}
+
+#Messageform {
+
+}
+
+#BottomContact {
+    background-color:#262322;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-align: center;
+}
